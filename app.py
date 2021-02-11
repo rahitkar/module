@@ -1,7 +1,7 @@
-from sub import greeting
+from sub_module import grittings
 
 def run():
-    greeting.greeting("Git Submodule")
+    grittings.greeting("rama")
 
-if __name__ == "__main__":
-    run()
+
+run()
